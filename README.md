@@ -1,6 +1,15 @@
 # Multivariate Data Analysis with Python 📊📈
 
-----------
 
-- 여러 다변량 통계 분석 개념을 R이 아닌 Python으로 구현
-- (21-1) STAT401 Multivariate Analysis
+### 1. Basic Multivariate Statistics
+    - Cov, Corr, QQ-plot, Multivariate normality 
+
+### 2. PCA
+### 3. Clustering Analysis
+    - Hierarchical clustering
+    - K-means
+
+### 4. Exploratory Factor Analysis
+
+### 5. Project 
+    - Cluster Analysis of Economic Indicators data for OECD countries
